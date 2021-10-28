@@ -1,0 +1,65 @@
+h1 {
+  font-family: 'Birthstone', cursive;
+  font-weight: bold;
+  font-size: 100px;
+  color: #11999e;
+  margin: 0 auto;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
+  color: #11999e;
+  margin: 0 auto;
+}
+
+nav{
+  padding: 0 10px;
+}
+
+p{
+line-height: 1.5;
+}
+
+.greeting-paragraph{
+  color: #11999e;
+  line-height: 1.5;
+  margin: 20px auto;
+  width: 85%;
+}
+.col-md-6{
+text-align: center;
+  }
+
+.comp{
+margin: 30px auto;
+width: 40%;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+.footer{
+  color: #ffffff;
+  margin: 0;
+  padding: 10px 0 10px;
+  background-color: #66bfbf;
+  text-align: center;
+}
+
+.profileImg {
+  margin: 50px auto 0;
+  width: 25%;
+}
+
+.nav-item{
+  padding: 0 5px;
+  font-size: 18px;
+}
+
+.row {
+  background-color: #CCF2F4;
+  margin: auto;
+}
